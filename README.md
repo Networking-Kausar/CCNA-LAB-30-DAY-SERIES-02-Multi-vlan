@@ -1,4 +1,3 @@
-# CCNA-LAB-30-DAY-SERIES-02-Multi-vlan
 # CCNA Lab Day 2 – Multi-Switch VLAN Network and Trunking
 
 ## Overview
