@@ -1,5 +1,4 @@
 # CCNA Lab Day 2 – Multi-Switch VLAN Network and Trunking
-
 ## Overview
 
 This lab builds on Day 1 by extending VLAN communication across multiple switches. You will learn how trunk links allow VLAN traffic to travel between switches and how devices in the same VLAN can communicate even when connected to different switches.
